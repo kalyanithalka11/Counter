@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(126, 207, 5);
+    height: 300px;
+    margin: 100px;
+    border-top-left-radius: 800px;
+    border-bottom-right-radius: 800px;
+  
+}
